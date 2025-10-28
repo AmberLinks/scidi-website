@@ -1,0 +1,14 @@
+
+> scidi-website@0.0.1 dev
+> astro dev --host 0.0.0.0 --port 4321
+
+09:55:41 [types] Generated 1ms
+09:55:41 [content] Syncing content
+09:55:41 [content] Synced content
+
+ astro  v5.15.1 ready in 477 ms
+
+┃ Local    http://localhost:4321/
+┃ Network  http://169.254.0.21:4321/
+
+09:55:41 watching for file changes...
